@@ -1,0 +1,12 @@
+{
+  "build": {
+    "env": {
+      "VITE_SUPABASE_URL": "@VITE_SUPABASE_URL",
+      "VITE_SUPABASE_ANON_KEY": "@VITE_SUPABASE_ANON_KEY"
+    },
+    "commands": {
+      "install": "npm install --legacy-peer-deps",
+      "build": "npm run build"
+    }
+  }
+}
