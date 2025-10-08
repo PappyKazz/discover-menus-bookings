@@ -31,3 +31,4 @@ dist-ssr
 
 # dependencies
 node_modules
+.vercel
